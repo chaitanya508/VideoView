@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "/home/girish/Desktop/ChaitanyaApps/VideoView/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 91,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "/home/girish/Desktop/ChaitanyaApps/VideoView/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 91,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 94,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "/home/girish/Desktop/ChaitanyaApps/VideoView/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 94,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 82,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/home/girish/Desktop/ChaitanyaApps/VideoView/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 82,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 73,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "/home/girish/Desktop/ChaitanyaApps/VideoView/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 73,
+                        "endOffset": 124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 56,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "/home/girish/Desktop/ChaitanyaApps/VideoView/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 56,
+                        "endOffset": 340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 57,
+                    "endOffset": 509
+                },
+                "from": {
+                    "file": "/home/girish/Desktop/ChaitanyaApps/VideoView/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 57,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 514,
+                    "endColumn": 45,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "/home/girish/Desktop/ChaitanyaApps/VideoView/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 45,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endColumn": 54,
+                    "endOffset": 610
+                },
+                "from": {
+                    "file": "/home/girish/Desktop/ChaitanyaApps/VideoView/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 129,
+                        "endColumn": 54,
+                        "endOffset": 179
+                    }
+                }
+            }
+        ]
+    }
+]

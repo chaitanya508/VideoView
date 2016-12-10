@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/girish/Desktop/ChaitanyaApps/VideoView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a6ce131dba6edd139d0a143a85eabba906d6a706">
+        <dex dex="/home/girish/Desktop/ChaitanyaApps/VideoView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fed0a9014bd72b6d58264fc480f8ef3fda755127/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/girish/Desktop/ChaitanyaApps/VideoView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="31a6e1b753413f7c83dfa5276dc6cd7e25a50f64">
+        <dex dex="/home/girish/Desktop/ChaitanyaApps/VideoView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_61550ea83f315abc6da5ffa5d35bc0c5889c3a3d/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="act_remoteloc">This video is being played from a remote location</string>
+    <string name="act_resfolder">This video is being played from the resources folder</string>
+    <string name="act_sdcard">This video is being played from the SD card</string>
+    <string name="app_name">41 Post - Loading and Playing Videos</string>
+    <string name="bt_remoteloc">Remote Location</string>
+    <string name="bt_resfolder">Resources folder</string>
+    <string name="bt_sdcard">SD Card</string>
+    <string name="tv_selone">Load Video from:</string>
+</resources>

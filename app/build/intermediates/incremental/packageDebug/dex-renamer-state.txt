@@ -1,0 +1,7 @@
+#Thu Dec 01 17:15:09 IST 2016
+base.0=/home/girish/Desktop/ChaitanyaApps/VideoView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fed0a9014bd72b6d58264fc480f8ef3fda755127
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/girish/Desktop/ChaitanyaApps/VideoView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_61550ea83f315abc6da5ffa5d35bc0c5889c3a3d/classes.dex
+base.1=/home/girish/Desktop/ChaitanyaApps/VideoView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_61550ea83f315abc6da5ffa5d35bc0c5889c3a3d
+file.0=/home/girish/Desktop/ChaitanyaApps/VideoView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fed0a9014bd72b6d58264fc480f8ef3fda755127/classes.dex
